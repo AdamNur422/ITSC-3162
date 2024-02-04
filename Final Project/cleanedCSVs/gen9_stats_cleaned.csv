@@ -1,0 +1,104 @@
+Pokemon,Type 1,Type 2,HP,Attack,Defense,Special Attack,Special Defense,Speed,Generation
+Annihilape,fighting,ghost,110,115,80,50,90,90,9
+Arboliva,grass,normal,78,69,90,125,109,39,9
+Arctibax,ice,dragon,90,95,66,45,65,62,9
+Armarouge,fire,psychic,85,60,100,125,80,75,9
+Baxcalibur,ice,dragon,115,145,92,75,86,87,9
+Bellibolt,electric,None,109,64,91,103,83,45,9
+Bombirdier,flying,dark,70,103,85,60,85,82,9
+Brambleghast,grass,ghost,55,115,70,80,70,90,9
+Bramblin,grass,ghost,40,65,30,45,35,60,9
+Brute Bonnet,dark,grass,111,127,99,79,99,55,9
+Capsakid,grass,None,50,62,40,62,40,50,9
+Ceruledge,fire,ghost,75,125,80,60,100,85,9
+Cetitan,ice,None,170,113,65,45,55,73,9
+Cetoddle,ice,None,108,68,45,30,40,43,9
+Charcadet,fire,None,40,50,40,50,40,35,9
+Chi-Yu,dark,fire,55,80,80,135,120,100,9
+Chien-Pao,dark,ice,80,120,80,90,65,135,9
+Clodsire,ground,poison,130,75,60,45,100,20,9
+Crocalor,fire,None,81,55,78,90,58,49,9
+Cyclizar,dragon,normal,70,95,65,85,65,121,9
+Dachsbun,fairy,None,57,80,115,50,80,95,9
+Dolliv,normal,grass,52,53,60,78,78,33,9
+Dondozo,water,None,150,100,115,65,65,35,9
+Dundunsparce,normal,None,125,100,80,85,75,55,9
+Espathra,psychic,None,95,60,60,101,60,105,9
+Farigiraf,normal,psychic,120,90,70,110,70,60,9
+Fidough,fairy,None,37,55,70,30,55,65,9
+Finizen,water,None,70,45,40,45,40,75,9
+Flamigo,fighting,flying,82,115,74,75,64,90,9
+Flittle,psychic,None,30,35,30,55,30,75,9
+Floragato,grass,None,61,80,63,60,63,83,9
+Flutter Mane,fairy,ghost,55,55,55,135,135,135,9
+Frigibax,ice,dragon,65,75,45,35,45,55,9
+Fuecoco,fire,None,67,45,59,63,40,36,9
+Garganacl,rock,None,100,100,130,45,90,35,9
+Gholdengo,steel,ghost,87,60,95,133,91,84,9
+Gimmighoul,ghost,None,45,30,70,75,70,10,9
+Glimmet,poison,rock,48,35,42,105,60,60,9
+Glimmora,rock,poison,83,55,90,130,81,86,9
+Grafaiai,poison,normal,63,95,65,80,72,110,9
+Great Tusk,ground,fighting,115,131,131,53,53,87,9
+Greavard,ghost,None,50,61,60,30,55,34,9
+Houndstone,ghost,None,72,101,100,50,97,68,9
+Iron Bundle,ice,water,56,80,114,124,60,136,9
+Iron Hands,fighting,electric,154,140,108,50,68,50,9
+Iron Jugulis,dark,flying,94,80,86,122,80,108,9
+Iron Moth,poison,fire,80,70,60,140,110,110,9
+Iron Thorns,electric,rock,100,134,110,70,84,72,9
+Iron Treads,ground,steel,90,112,120,72,70,106,9
+Iron Valiant,fighting,fairy,74,130,90,120,60,116,9
+Kilowattrel,flying,electric,70,70,60,105,60,125,9
+Kingambit,steel,dark,100,135,120,60,85,50,9
+Klawf,rock,None,70,100,115,35,55,75,9
+Koraidon,fighting,dragon,100,135,115,85,100,135,9
+Lechonk,normal,None,54,45,40,35,45,35,9
+Lokix,dark,bug,71,102,78,52,55,92,9
+Mabosstiff,dark,None,80,120,90,60,70,85,9
+Maschiff,dark,None,60,78,60,40,51,51,9
+Maushold,normal,None,74,75,70,65,75,111,9
+Meowscarada,dark,grass,76,110,70,81,70,123,9
+Miraidon,dragon,electric,100,85,100,135,115,135,9
+Nacli,rock,None,55,55,75,35,35,25,9
+Naclstack,rock,None,60,60,100,35,65,35,9
+Nymble,bug,None,33,46,40,21,25,45,9
+Oinkologne,normal,None,110,100,75,59,80,65,9
+Orthworm,steel,None,70,85,145,60,55,65,9
+Palafin,water,None,100,160,97,106,87,100,9
+Pawmi,electric,None,45,50,20,40,25,60,9
+Pawmo,fighting,electric,60,75,40,50,40,85,9
+Pawmot,electric,fighting,70,115,70,70,60,105,9
+Quaquaval,water,fighting,85,120,80,85,75,85,9
+Quaxly,water,None,55,65,45,50,45,50,9
+Quaxwell,water,None,70,85,65,65,60,65,9
+Rabsca,bug,psychic,75,50,85,115,100,45,9
+Rellor,bug,None,41,50,60,31,58,30,9
+Revavroom,poison,steel,80,119,90,54,67,90,9
+Roaring Moon,dark,dragon,105,139,71,55,101,119,9
+Sandy Shocks,ground,electric,85,81,97,121,85,101,9
+Scovillain,grass,fire,65,108,65,108,65,75,9
+Scream Tail,psychic,fairy,115,65,99,65,115,111,9
+Shroodle,normal,poison,40,65,35,40,35,75,9
+Skeledirge,ghost,fire,104,75,100,110,75,66,9
+Slither Wing,fighting,bug,85,135,79,85,105,81,9
+Smoliv,normal,grass,41,35,45,58,51,30,9
+Spidops,bug,None,60,79,92,52,86,35,9
+Sprigatito,grass,None,40,61,54,45,45,65,9
+Squawkabilly,normal,flying,82,96,51,45,51,92,9
+Tadbulb,electric,None,61,31,41,59,35,45,9
+Tandemaus,normal,None,50,50,45,40,45,75,9
+Tarountula,bug,None,35,41,45,29,40,20,9
+Tatsugiri,dragon,water,68,50,60,120,95,82,9
+Ting-Lu,dark,ground,155,110,125,55,80,45,9
+Tinkatink,fairy,steel,50,45,45,35,64,58,9
+Tinkaton,steel,fairy,85,75,77,70,105,94,9
+Tinkatuff,steel,fairy,65,55,55,45,82,78,9
+Toedscool,grass,ground,40,40,35,50,100,70,9
+Toedscruel,grass,ground,80,70,65,80,120,100,9
+Varoom,steel,poison,45,70,63,30,45,47,9
+Veluza,water,psychic,90,102,73,78,65,70,9
+Wattrel,flying,electric,40,40,35,55,40,70,9
+Wiglett,water,None,10,55,25,35,25,95,9
+Wo-Chien,dark,grass,85,85,100,95,135,70,9
+Wugtrio,water,None,35,100,50,50,70,120,9
